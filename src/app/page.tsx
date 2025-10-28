@@ -5,7 +5,7 @@ export const metadata = {
   title: "شركة الهدى للعقارات",
   description: "أفضل العقارات في الرياض وحلول سكنية وتجارية مميزة.",
   icons: {
-    icon: "/favicon.ico", // Favicon اللي فيها حرف "هـ"
+    icon: "/88.jpg",
   },
   openGraph: {
     title: "شركة الهدى للعقارات",
@@ -14,7 +14,7 @@ export const metadata = {
     siteName: "شركة الهدى للعقارات",
     images: [
       {
-        url: "/favicon.ico", // ممكن نستخدم نفس Favicon أو صورة OG أكبر
+        url: "/88.jpg",
         width: 1200,
         height: 630,
       },
@@ -25,7 +25,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "شركة الهدى للعقارات",
     description: "أفضل العقارات في الرياض وحلول سكنية وتجارية مميزة.",
-    images: ["/favicon.ico"], // نفس الشيء، أو OG image أكبر
+    images: ["/88.jpg"],
   },
 };
 

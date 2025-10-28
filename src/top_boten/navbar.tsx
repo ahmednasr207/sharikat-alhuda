@@ -11,7 +11,7 @@ export default function Navbar() {
         
         {/* شعار الشركة */}
         <a href="#" className="flex items-center space-x-2 rtl:space-x-reverse">
-          <img src="/logo.png" alt="شعار شركة الهدى" className="h-10 w-10 rounded-full" />
+          <img src="/88.jpg" alt="شعار شركة الهدى" className="h-10 w-10 rounded-full" />
           <span className="text-2xl font-bold text-blue-400">شركة الهدى للعقارات</span>
         </a>
 
