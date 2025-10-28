@@ -10,8 +10,8 @@ export default function Navbar() {
       <div className="max-w-screen-xl mx-auto flex items-center justify-between px-4 py-3">
         
         {/* شعار الشركة */}
-        <a href="#" className="flex items-center space-x-2 rtl:space-x-reverse">
-          <img src="/88.jpg" alt="شعار شركة الهدى" className="h-10 w-10 rounded-full" />
+        <a href="#" className="flex items-center justify-between ">
+          <img src="/88.jpg" alt="شعار شركة الهدى" className="h-10 w-10 rounded-full  ml-4 " />
           <span className="text-2xl font-bold text-blue-400">شركة الهدى للعقارات</span>
         </a>
 
