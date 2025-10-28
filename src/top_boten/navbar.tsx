@@ -46,7 +46,7 @@ export default function Navbar() {
           </li>
         
           <li className="pl-4">
-            <a href="https://api.whatsapp.com/message/6OKFMG3UEKLMI1?autoload=1&app_absent=0" className="hover:text-blue-400 transition-colors text-2xl">اتصل بنا</a>
+            <a href="https://wa.me/966543378839" className="hover:text-blue-400 transition-colors text-2xl">اتصل بنا</a>
           </li>
         </ul>
       </div>

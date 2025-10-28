@@ -129,8 +129,7 @@ export default function Home() {
 
       {/* زر واتساب للتواصل */}
       <a
-        href="https://api.whatsapp.com/message/6OKFMG3UEKLMI1?autoload=1&app_absent=0"
-        target="_blank"
+        href="https://wa.me/966543378839"
         rel="noopener noreferrer"
         className={`fixed bottom-6 left-6 z-50 bg-green-600 p-4 rounded-full shadow-lg text-white hover:bg-green-700 transition-all duration-300 transform ${
           isVisible ? "translate-y-0 opacity-100" : "translate-y-10 opacity-0"
