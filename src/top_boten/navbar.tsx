@@ -6,7 +6,7 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false)
   const [activeLink, setActiveLink] = useState("#home")
 
-  const handleClick = (hash) => {
+  const handleClick = (hash: string) => {
     setActiveLink(hash)
     setMenuOpen(false) // يقفل القائمة في الموبايل بعد الاختيار
   }
