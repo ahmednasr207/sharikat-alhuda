@@ -10,7 +10,7 @@ export default function Navbar() {
     setActiveLink(hash)
     setMenuOpen(false) // يقفل القائمة في الموبايل بعد الاختيار
   }
-
+ 
   return (
     <nav dir="rtl" className="bg-gray-900 text-white shadow-md fixed w-full top-0 z-50">
       <div className="max-w-screen-xl mx-auto flex items-center justify-between px-4 py-3">
