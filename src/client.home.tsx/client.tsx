@@ -106,7 +106,7 @@ export default function Home() {
             <FullScreenImage imgg={largeScreen} />
             <button
               onClick={close}
-              className="absolute -top-3 right-3 text-white text-2xl bg-red-600 w-10 h-10 rounded-full flex items-center justify-center hover:bg-red-700 transition-colors"
+              className="absolute -top-[-10px] right-3 text-white text-2xl bg-red-600 w-10 h-10 rounded-full flex items-center justify-center hover:bg-red-700 transition-colors"
             >
               ×
             </button>
